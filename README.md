@@ -34,7 +34,7 @@ Displays a text entry field in the bottom left of the screen and a **SEARCH** bu
 ## Account Details Screen
 * Displays 3 tabs. You can navigate between the 3 tabs by ***swiping***, the tabs are currently not ***clickable***.
 
-***Give this screen some time to load before the swiping actually work...s***
+***Give this screen some time to load before the swiping actually works...***
 
   1 - Bills
   
