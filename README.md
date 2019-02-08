@@ -1,6 +1,8 @@
 # NessieExample
 Hackathon Example App. Just a heads up, this app has little-to-no styling.
 
+app-release.apk is under the release tab and can be install using **adb**.
+
 ## Initial (Splash Screen)
 3 - Buttons
 
