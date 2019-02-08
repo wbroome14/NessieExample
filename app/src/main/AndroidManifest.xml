@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="wbroome14.nessiehackathonexample">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".SplashActivity"
+            android:label="@string/title_activity_splash">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <activity android:name=".EnterpriseCustomerListActivity"
+            android:label="@string/title_activity_enterprise_customer_list"/>
+
+        <activity android:name=".CustomerListActivity"
+            android:label="@string/title_activity_customer_list"/>
+
+        <activity android:name=".CustomerCreationActivity"
+            android:label="@string/title_activity_customer_creation"/>
+
+        <activity android:name=".AccountListActivity"
+            android:label="@string/title_activity_account_list"/>
+
+        <activity android:name=".AccountCreationActivity"
+            android:label="@string/title_activity_account_creation"/>
+
+        <activity android:name=".AccountDetailsActivity"
+            android:label="@string/title_activity_account_details"/>
+
+        <activity android:name=".WithdrawalCreationActivity"
+            android:label="@string/title_activity_withdrawal_creation"/>
+
+        <activity android:name=".ATMListActivity"
+            android:label="@string/title_activity_atm_list"/>
+
+    </application>
+
+</manifest>

@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">NessieHackathonExample</string>
+    <string name="title_activity_account_details">Account Details</string>
+    <string name="title_activity_withdrawal_creation">Create Withdrawal</string>
+    <string name="title_activity_customer_list">Customer List</string>
+    <string name="title_activity_splash">Nessie Hackathon Example</string>
+    <string name="title_activity_account_list">Account List</string>
+    <string name="title_activity_customer_creation">Create Customer</string>
+    <string name="title_activity_enterprise_customer_list">Enterprise Customer List</string>
+    <string name="title_activity_account_creation">Create Account</string>
+    <string name="title_activity_atm_list">ATM Finder</string>
+    <string name="delete_all_withdrawals">Delete All Withdrawals</string>
+    <string name="enter_radius">Enter Radius (miles):</string>
+    <string name="one">1</string>
+    <string name="search">SEARCH</string>
+    <string name="customer_endpoint">Customer Endpoint</string>
+    <string name="enterprise_endpoint">Enterprise Endpoint</string>
+    <string name="atm_search">ATM Search</string>
+    <string name="account_type">Account Type</string>
+    <string name="account_nickname">Account Nickname</string>
+    <string name="cancel">Cancel</string>
+    <string name="credit_card">Account Type: Credit Card</string>
+</resources>
